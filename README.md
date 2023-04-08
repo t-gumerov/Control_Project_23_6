@@ -1,4 +1,4 @@
-# Control_Project_23_6
+# VatnyiConverter
 
 Телеграм-бот для конвертации валют. Имя в телеграме @VatnyiConverterBot
 
